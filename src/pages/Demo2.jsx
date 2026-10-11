@@ -1,3 +1,5 @@
+Demo2.jsx
+ 
 //import React from 'react'
  
 import './card.css'
@@ -17,13 +19,11 @@ export default function Demo2()
         <div className='card-info'>
    
         <h2>Ch Sravyanjali</h2>
-        <p>React Developer</p>
-    
+        <p>Full Stack Application Developer</p>
+        
  
         </div>
  
     </div>
   )
 }
- 
- 
